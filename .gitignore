@@ -1,0 +1,11 @@
+*.class
+*.idea
+AntColony.iml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+
